@@ -1,7 +1,7 @@
 <?php 
 
 /*
- * USAGE : http://192.168.10.75/tests/netstarter/supee-6482/security.php?URL=http://petbarn.magdev.ns-staging.com.au&U=lasantha&P=lasantha123
+ * USAGE : http://localhost/tests/netstarter/supee-6482/security.php?URL=http://petbarn.magdev.ns-staging.com.au&U=lasantha&P=lasantha123
  */
 ini_set('display_errors', 1);
 $url = $_GET["URL"];
